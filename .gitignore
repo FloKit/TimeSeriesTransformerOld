@@ -1,2 +1,8 @@
 .venv
 .python-version
+
+model_logs_tb
+transformer_model
+checkpoint
+
+*/__pycache__
