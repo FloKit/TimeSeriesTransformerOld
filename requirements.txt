@@ -1,0 +1,8 @@
+stable_baselines3==1.4.0
+tensorflow==1.15.5
+h5py==2.10.0
+numpy==1.18.5
+cloudpickle==1.6.0
+gym==0.18.0
+jupyterlab==3.6.7
+protobuf==3.20.0
