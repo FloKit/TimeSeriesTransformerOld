@@ -5,4 +5,6 @@ model_logs_tb
 transformer_model
 checkpoint
 
+trained_models
+
 */__pycache__
