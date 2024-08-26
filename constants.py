@@ -1,0 +1,7 @@
+CART_POS="cartPos"
+CART_VEL="cartVel"
+PEND_POS="pendPos"
+PEND_VEL="pendVel"
+EPISODE="episode"
+STEP="step"
+ACTION="action"
